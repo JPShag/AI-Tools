@@ -224,7 +224,143 @@
 - [MagicBrush](https://www.magicbru.sh/), [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) - AI Image Transformers
 - [SD Inpainting](https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting), [Inpaint Anything](https://github.com/geekyutao/Inpaint-Anything) or [Lama Cleaner](https://github.com/Sanster/lama-cleaner) - Image Fill / Item Removal
 - [MemeCam](https://www.memecam.io/) - AI Meme Generator
-- [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [ThreeStudio](https://github.com/threestudio-project/threestudio) - 3D Image Generators
-- [
+- [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [ThreeStudio](https://github.com/threestudio-project/threestudio) - 3D Image Generator
+- 
+- ## Guides / Indexes
+
+### [RentrySD](https://rentry.org/RentrySD/), [Pharmapsychotic](https://pharmapsychotic.com/tools.html), [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
+
+### [A Traveler’s Guide to the Latent Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f) - AI Art Guide 
+
+### [Voldy](https://rentry.org/voldy) - Stable Diffusion Guide
+
+### [SD Compendium](https://www.sdcompendium.com/) - Stable Diffusion Guide 
+
+### [SD Quickstart](https://redd.it/xvhavo) - Stable Diffusion Guide
+
+### [1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw) - Stable Diffusion Guide
+
+
+## Audio Generators
+
+- [MusicGen](https://huggingface.co/spaces/facebook/MusicGen) - Text to Music AI
+- [Wolfram Tones](https://tones.wolfram.com/)
+- [audio visual generator](https://fredericbriolet.com/avg/)
+- [Fake Music Generator](https://www.fakemusicgenerator.com/) 
+- [Jingle](https://aidn.jp/jingle/)
+- [BeatOven](https://www.beatoven.ai/)
+- [Waveformer](https://waveformer.replicate.dev/)
+- [SoundDraw](https://soundraw.io/)
+- [Aiva](https://aiva.ai/)
+- [Boomy](https://boomy.com/)
+- [Riffusion](https://www.riffusion.com/)
+- [Drum Loop AI](https://www.drumloopai.com/) - Drum Loop Generator
+- [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
+### [MusicGen](https://huggingface.co/spaces/facebook/MusicGen) - Text to Music AI
+
+## Text to Speech
+
+- [ElevenLabs](https://beta.elevenlabs.io/) / [Discord](https://discord.com/invite/elevenlabs)
+- [Uberduck](https://uberduck.ai/) / [Discord](https://discord.gg/ATYWnMu)
+- [Tortoise TTS](https://github.com/neonbjb/tortoise-tts)
+- [Bark](https://huggingface.co/spaces/suno/bark) - [Github](https://github.com/suno-ai/bark) / [Discord](https://discord.com/invite/J2B2vsjKuE)
+- [Balabolka](http://www.cross-plus-a.com/bportable.htm)
+- [15.ai](https://15.ai/)
+- [Text To Speech](https://texttospeech.ca/)
+- [ttsMP3](https://ttsmp3.com/)
+- [Vall-e](https://github.com/enhuiz/vall-e) 
+- [TextToMP3](https://www.texttomp3.online/)
+- [FakeYou](https://fakeyou.com/)
+- [Woord](https://www.getwoord.com/)
+- [Speakonia](https://archive.org/details/speakonia_1036)
+- [TextToSpeech](https://texttospeech.io/)
+- [SAPI4](https://tetyys.com/SAPI4/)
+- [LazyPY](https://lazypy.ro/tts/)
+- [Murf.ai](https://murf.ai/)
+- [Fish Diffusion](https://github.com/fishaudio/fish-diffusion)
+- [Audio-WebUI](https://github.com/gitmylo/audio-webui)
+- [Vanilla Voice](https://www.vanillavoice.com/)
+- [Sam](https://discordier.github.io/sam/), [2](https://simulationcorner.net/index.php?page=sam) / [BetterSam](https://imrane03.github.io/better-sam/)
+- [MicrosoftSamOnline](https://lingojam.com/MicrosoftSamOnline)
+- [TTSFree](https://ttsfree.com/)
+- [Wideo](https://wideo.co/text-to-speech/)
+- [VoiceGenerator](https://voicegenerator.io/)
+- [Text to Speech Free](https://www.texttospeechfree.com/)
+- [Lovo ai](https://lovo.ai/)
+- [TextToSpeechRobot](https://texttospeechrobot.com/)
+- [SoundofText](https://soundoftext.com/)
+- [FreeTTS](https://freetts.com/)
+- [zvukogram](https://zvukogram.com/)
+- [Nuance](https://www.nuance.com/de-de/omni-channel-customer-engagement/voice-and-ivr/text-to-speech.html)
+- [VoiceMaker](https://voicemaker.in/)
+- [readloud](https://readloud.net/)
+- [NaturalReaders](https://www.naturalreaders.com/online/)
+- [TTS](https://github.com/coqui-ai/tts)
+- [Clash](https://clash.me/)
+- [Moe TTS](https://huggingface.co/spaces/skytnt/moe-tts)
+- [FakeYou](https://fakeyou.com/)
+- [TTS Paper](https://github.com/coqui-ai/TTS-papers) - Text to Speech Papers
+- 
+Here are some related tools for voice changing and cloning:
+
+- Voice Changers:
+  - [Voicemod](https://www.voicemod.net/) - Popular voice changer app for PC and mobile. 
+  - [Screaming Bee](https://screamingbee.com/) - Voice effects and voice changer.
+  - [Voice Labs](https://voicelabs.co/) - AI voice changer web app.
+
+- Voice Cloning:
+  - [Lyrebird](https://lyrebird.ai/) - AI voice cloning startup. 
+  - [Anthropic](https://www.anthropic.com/) - AI safety research company that does voice cloning.
+  - [Respeecher](https://respeecher.com/) - Voice cloning and TTS voices.
+
+- Open Source Tools:
+  - [PyVoiceChanger](https://github.com/supravirus/py-voice-changer) - Python voice changer lib.
+  - [Voicery](https://github.com/Anthropic/voicery) - Train personalized TTS models.
+  - [Tacotron2](https://github.com/NVIDIA/tacotron2) - End-to-end TTS model from NVIDIA.
+  - [DeepVoice3](https://github.com/jaywalnut310/deepvoice3) - Anthropic's winning solution for Voice Cloning Challenge 2021.
+
+- Related Subreddits: 
+  - r/VoiceActing
+  - r/VoiceWork
+  - r/VoiceRecording
+
+- Training Data:
+  - [VCTK Corpus](http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/Audio/Main/English/) - Public domain voice dataset.
+## Machine Learning
+
+remove everything including html and emojis, but keep the links and label
+output in plain text
+
+Guides / Indexes
+
+RentrySD, https://rentry.org/RentrySD/ Pharmapsychotic, https://pharmapsychotic.com/tools.html Paper2GUI, https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md SD Goldmine, https://rentry.org/sdgoldmine Akashic, https://github.com/Maks-s/sd-akashic sdg-link, https://rentry.org/sdg-link SDTools, https://sdtools.org AI Creation Tools, https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0 - AI Image Resources
+
+A Traveler’s Guide to the Latent Space, https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f - AI Art Guide  
+
+Voldy, https://rentry.org/voldy - Stable Diffusion Guide
+
+SD Compendium, https://www.sdcompendium.com/ - Stable Diffusion Guide  
+
+SD Quickstart, https://redd.it/xvhavo - Stable Diffusion Guide
+
+1 Min Stable Diffusion, https://youtu.be/l3JjTDvyVdw - Stable Diffusion Guide
+
+Image Restoration
+
+Image Colorization
+
+Image Upscaling 
+
+Background Removal
+
+Audio Generators
+
+MusicGen, https://huggingface.co/spaces/facebook/MusicGen - Text to Music AI
+
+Text to Speech
+
+Voice Change / Clone
+
+Machine Learning
 
 
