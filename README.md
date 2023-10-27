@@ -26,6 +26,56 @@
 - [JackChat](https://www.jackchat.ai/) - GPT-3 Based Chatbot
 - [iAsk](https://iask.ai/) - GPT-3 Q&A AI
 
+## Machine Learning Tools
+
+- [Deepnote](https://deepnote.com/) - Cloud-based Jupyter notebooks with GPU support and collaboration features.
+
+- [Kaggle Notebooks](https://www.kaggle.com/notebooks) - Jupyter notebooks hosted on Kaggle with GPU and larger runtime.
+
+- [Colab Pro](https://colab.research.google.com/signup) - Paid version of Colab with more GPU/TPU hours and storage. 
+
+- [Azure Notebooks](https://notebooks.azure.com/) - Jupyter notebooks hosted on Microsoft Azure.
+
+- [Anthropic PBC Notebooks](https://app.anthropic.com/) - Jupyter notebooks focused on AI safety research.
+
+- [CoCalc](https://cocalc.com/) - Cloud-based Mathematica, SageMath, Python and more.
+
+- [Binder](https://mybinder.org/) - Launch Jupyter environments from GitHub repos. 
+
+- [NLP Notebooks](https://colab.research.google.com/github/tensorflow/nlp) - NLP examples from TensorFlow.
+
+- [FastAPI Notebooks](https://fastapi.tiangolo.com/tutorial/export-ipynb/) - Run FastAPI code in Colab Notebooks.
+
+- [Gradio](https://gradio.app/) - Deploy machine learning models as web apps from Colab notebooks.
+
+- [kaggle Notebooks](https://www.kaggle.com/notebooks) - Jupyter notebooks hosted on Kaggle with GPU and larger runtime.
+
+- [Colab Pro](https://colab.research.google.com/signup) - Paid version of Colab with more GPU/TPU hours and storage.
+
+- [Azure Notebooks](https://notebooks.azure.com/) - Jupyter notebooks hosted on Microsoft Azure. 
+
+- [Anthropic PBC Notebooks](https://app.anthropic.com/) - Jupyter notebooks focused on AI safety research.
+
+- [CoCalc](https://cocalc.com/) - Cloud-based Mathematica, SageMath, Python and more.
+
+- [Binder](https://mybinder.org/) - Launch Jupyter environments from GitHub repos.
+
+- [NLP Notebooks](https://colab.research.google.com/github/tensorflow/nlp) - NLP examples from TensorFlow.
+
+- [FastAPI Notebooks](https://fastapi.tiangolo.com/tutorial/export-ipynb/) - Run FastAPI code in Colab Notebooks.
+
+- [Gradio](https://gradio.app/) - Deploy machine learning models as web apps from Colab notebooks.
+
+- [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
+
+- [MLC LLM](https://github.com/mlc-ai/mlc-llm) - Native Language Model Deployment
+
+- [OpenCog](https://opencog.org/) or [AForge](https://github.com/andrewkirillov/AForge.NET) - Artificial Intelligence Frameworks
+
+- [VIAM](https://www.viam.com/) - Develop Robotics Projects
+
+- [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
+
 ## Open-Source Bots
 
 - [Awesome Totally Open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
