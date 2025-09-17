@@ -1,7 +1,3 @@
-Of course. Here is the provided list reformatted into a clean, easy-to-read guide.
-
------
-
 # A Curated List of AI Tools and Resources
 
 A comprehensive list of AI chatbots, tools, and resources for generation, coding, writing, and more.
