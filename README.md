@@ -4,6 +4,10 @@ A comprehensive list of AI chatbots, tools, and resources for generation, coding
 
 **Note:** It is **never** a good idea to upload anything personal or confidential to cloud-based AIs, as many of them use your prompts for data collection or training. For privacy, it's best to run large language models (LLMs) locally.
 
+## DISCOUNTED Up to 80% off ChatGPT, Google AI Pro, Perplexity Pro, and other AI subscriptions/PC software DM on discord @ vcpu
+
+**Please have patience. I have a backlog of messages to attend to atm.**
+
 -----
 
 ## AI Chatbots
