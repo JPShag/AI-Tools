@@ -35,7 +35,7 @@ A comprehensive list of AI chatbots, tools, and resources for generation, coding
   * **[Genspark](https://www.genspark.ai/)** - Provides GPT-5-high, Gemini 2.5 Pro, and Grok 4. Community on [Discord](https://discord.com/invite/CsAQ6F4MPy).
   * **[Groq](https://groq.com/)** - Fast inference speeds for models like Kimi K2-0905 and GPT-OSS 120B. Join their [Discord](https://discord.gg/invite/groq).
   * **[NVIDIA NIM](https://build.nvidia.com/)** - A platform to try multiple models like DeepSeek V3.1 and Kimi K2 without signing up.
-  * **[AI Chat Studio](https://aichatstudio.codestorez.com/)** - Chat with AI and Earn Halal Money with Barakah!
+  * **[AI Chat Studio](https://aichatstudio.codestorez.com/)** - An interface for chatting with various AI models.
 
 -----
 
