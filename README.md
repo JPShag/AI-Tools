@@ -133,6 +133,7 @@ A comprehensive list of AI chatbots, tools, and resources for generation, coding
   * **[TextFX](https://textfx.withgoogle.com/)** or **[Rytr](https://rytr.me/)** - Creative writing tools powered by AI that don't require sign-up.
   * **[Dreamily](https://dreamily.ai/)** - An AI assistant designed for creative story writing.
   * **[Quarkle](https://quarkle.ai/)** - A general-purpose AI writing assistant.
+  * **[MindMap AI](https://mindmapai.app/text-summarizer)** - AI-powered mind mapping tool that converts text, PDFs, videos, audio, images, markdown, CSV, and research into structured visual mind maps.
 
 -----
 
