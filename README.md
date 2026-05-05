@@ -82,6 +82,7 @@ A comprehensive list of AI chatbots, tools, and resources for generation, coding
   * **[FlowGPT](https://flowgpt.com)** - A collection of roleplaying chatbots with various characters.
   * **[suspicious link removed]** - A popular platform for interacting with a vast library of user-created AI characters.
   * **[Chub](https://chub.ai/)** - A repository of character cards for use with frontends like SillyTavern.
+  * **[Kissable](https://kissable.app)** - AI companion featuring persistent memory, multimedia generation, and a scenario catalog.
   * **[Bot Creation Guide](https://wikia.schneedc.com/bot-creation/intro)** - A comprehensive guide to creating compelling AI characters.
 
 -----
