@@ -151,6 +151,7 @@ A comprehensive list of AI chatbots, tools, and resources for generation, coding
   * **[ImageFX](https://labs.google/fx/tools/image-fx)** - An unlimited generator powered by Google's Imagen 3 model.
   * **[LMArena Image](https://lmarena.ai/?mode=direct&chat-modality=image)** - Access multiple image generators from a single interface.
   * **[Mage](https://www.mage.space/)** - A popular site that offers fast generation with the FLUX Schnell model.
+  * **[igly.ai](https://igly.ai)** - AI image editing for background removal, inpainting, upscaling, and generative fill.
   * **[FLUX.1 Schnell](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell)** - A Hugging Face space for direct access to the FLUX model without sign-up.
   * **Local Frontends:**
       * **[Stability Matrix](https://lykos.ai/)** - A comprehensive tool for managing multiple local image generation frontends and models.
