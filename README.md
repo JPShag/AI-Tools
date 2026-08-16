@@ -94,6 +94,7 @@ A comprehensive list of AI chatbots, tools, and resources for generation, coding
   * **[Sourcery](https://sourcery.ai/)** - An AI tool that provides automatic pull request reviews.
   * **[Aider](https://aider.chat/)** - An AI coding assistant that works directly in your terminal.
   * **[Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)** - An open-source tool that lets LLMs run code locally to complete tasks.
+  * **[Agent QA](https://github.com/vostride/agent-qa)** - A source-available QA harness for natural-language web and mobile tests with a CLI, dashboard, MCP server, persistent execution memory, and self-healing flows.
 
 -----
 
